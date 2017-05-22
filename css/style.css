@@ -587,7 +587,7 @@ font-weight: 400;
 .services,.portfolio,.w3-event,.contact,.team,.subscribe, .about {
         background-color: #333333;
     margin-top: 2px;
-    padding: 2em 0em;
+    padding: 7em 0em;
 }
 .contactV,{
         background-color: #333333;
@@ -1057,7 +1057,7 @@ img.img-responsive.w3layouts.agileits {
 /*-- contact --*/
 div#contact {
     background-color: #333333;
-    height: 325px;
+    height: 500px;
 }
 .w3agile_contact_left h2{
     font-size: 1.3em;
