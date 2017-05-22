@@ -1057,6 +1057,7 @@ img.img-responsive.w3layouts.agileits {
 /*-- contact --*/
 div#contact {
     background-color: #333333;
+    height: 325px;
 }
 .w3agile_contact_left h2{
     font-size: 1.3em;
